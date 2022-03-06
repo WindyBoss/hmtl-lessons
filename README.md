@@ -7,7 +7,7 @@ made during the course - enjoy.**
 
 ## Agenda
 
-1. [Module 1 - Meeting with JS Syntax and data types]()
+1. [Module 1 - Meeting with JS Syntax and data types](https://github.com/WindyBoss/js-lessons/tree/Module-1-Meeting-with-JS-Syntax-and-data-types)
 2. [Module 2 - Array & Function]()
 3. [Module 3 - Objects]()
 4. [Module 4 - Functions & Callbacks]()
