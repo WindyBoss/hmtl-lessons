@@ -48,4 +48,25 @@ Math.sqrt - корінь
 6. 'break' - use in if else, switch or in other functions to stop the algorythm
 7. use switch only if the number is dirrect - not a segment of number, in other way use if else
 
+
+Beneficial advices for js coders:
+
+<!-- MODULE RULES -->
+
+Add "type="module"" to <script>. It will help to secure your js codes against JS conflicts in code. Additionally, it will permanently add "use strict" in js code, and it wont be necessary to add it to you js file before code. 
+
+
+<!-- Matrioshka --> 
+
+Use the way of "Matrioshka" --> XD
+Example: console.log(Number(mySalary.toFixed(2)));
+
+
+<!-- TRUE or FALSE -->
+false = 0
+true = 1
+
+<!-- NaN -->
+NaN - not a number
+
 */
