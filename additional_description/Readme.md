@@ -4,9 +4,9 @@
 
 
 ## debounced 
-There two types of debounced: 
-    - Trailing (listen chatty events after their end)
-    - Leading (listen chatty events in their beginning)
+There two types of debounced 
+- Trailing (listen chatty events after their end)
+- Leading (listen chatty events in their beginning)
 
 
 ## Loading Attribute 
