@@ -1,0 +1,13 @@
+{
+  "name": "module-11-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "keywords": [],
+  "author": "Vitaliy Zhyryk <zhyryk1997@gmail.com>",
+  "license": "ISC"
+}
