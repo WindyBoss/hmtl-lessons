@@ -26,7 +26,7 @@ try {
 
 }
 
--error - in this is an object with such keys: 
+- error - in this is an object with such keys: 
     - name: type of error
     - message: error description
     - stack: shows the stack, during which the error was found
