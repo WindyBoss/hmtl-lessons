@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=divice-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>CRUD</title>
+</head>
+  <style>
+    a {
+      text-decoration: none;
+    }
+  </style><body>
+  <a href="./index.html">On main</a>
+    <h2>Method Patch</h2>
+    <p>Book Id</p>
+    <input type="number" class='book-id'>
+      <div>
+    <select name="info-type" id="object-info">
+      <option value="title">title</option>
+      <option value="author">author</option>
+      <option value="genres">genres</option>
+      <option value="rating">rating</option>
+    </select>
+    <input type="text" data-input>
+  </div>
+
+  <button type='submit' class='change-book'>Change Book</button>
+    <script src="../js/refs.js"></script>
+    <script src="../js/u-patch.js"></script>
+</body>
+
+</html>

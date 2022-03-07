@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=divice-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="../css//common.css">
+  <title>CRUD</title>
+</head>
+  <style>
+    a {
+      text-decoration: none;
+    }
+  </style><body>
+  <a href="./index.html">On main</a>
+    <h2>Method Post</h2>
+      <div class='book-form'>
+  <div>
+    <p>Book Title</p>
+    <input type="text" data-title>
+  </div>
+  <div>
+    <p>Book Genres</p>
+    <input type="text" data-genres>
+  </div>
+  <div>
+    <p>Book Author</p>
+    <input type="text" data-author>
+  </div>
+  <div>
+    <p>Book Rating</p>
+    <input type="number" data-rating>
+  </div>
+  <button type='submit' data-submit='post'>Add Book</button>
+    </div>
+    <div class='book-container'></div>
+<script src="../js/refs.js"></script>
+<script src="../js/c-post.js"></script>
+</body>
+
+</html>
