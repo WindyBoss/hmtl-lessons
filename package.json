@@ -1,0 +1,21 @@
+{
+  "name": "my-projects",
+  "version": "1.0.0",
+  "description": "npm lesson",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/windyboss"
+  },
+  "author": "Vitaliy Zhyryk",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {}
+}
