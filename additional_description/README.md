@@ -42,12 +42,12 @@ const headers = new Headers({
   "X-Custom-Header": "custom value",
 });
 
-headers.append("Content-Type", "text/bash");
-headers.append("X-Custom-Header", "custom value");
-headers.has("Content-Type"); // true
-headers.get("Content-Type"); // "text/bash"
-headers.set("Content-Type", "application/json");
-headers.delete("X-Custom-Header");
+- headers.append("Content-Type", "text/bash");
+- headers.append("X-Custom-Header", "custom value");
+- headers.has("Content-Type"); // true
+- headers.get("Content-Type"); // "text/bash"
+- headers.set("Content-Type", "application/json");
+- headers.delete("X-Custom-Header");
 
 - Object
 const headers = {
