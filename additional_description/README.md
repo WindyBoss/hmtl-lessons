@@ -40,7 +40,7 @@ Configurations:
   - If loaders are co-dependent from each other (style, css, scss loaders), they must be written in [webpack.config.js] in right numeration
 
 - Webpack -> for other information read documentation
-- 
+
 - Webpack Plugins -> webpack configuration, which are used by webpack in the end, when the code is collected to one file
   - Plugins must be called in webpack.config.js in the beginning and added to modules export as a classes
   - some plugins needs additional loaders for ex. MiniCssExtractPlugin
@@ -50,4 +50,4 @@ Configurations:
 - A lot of loaders and Plugins needs their separate json file configuration
 
 
-[https://www.taniarascia.com/how-to-use-webpack/]
+[Additional Info](https://www.taniarascia.com/how-to-use-webpack/)
