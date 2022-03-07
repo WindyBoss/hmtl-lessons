@@ -1,4 +1,5 @@
-<!-- RULES OF VARIABLES -->
+/* RULES OF VARIABLES
+
 1. Do not use <--const--> without the definition.
 2. Do not use <--let--> or <--const--> without the variables.
 3. If you use let with name of variable, but without definition, browser will show "undefined".
@@ -46,3 +47,5 @@ Math.sqrt - корінь
 
 6. 'break' - use in if else, switch or in other functions to stop the algorythm
 7. use switch only if the number is dirrect - not a segment of number, in other way use if else
+
+*/
