@@ -1,7 +1,8 @@
-DOM - | Document Object Model | independent from the any language for work with HTML document, which possess a lot of methods, that help to make manipulations with any HTML elements (create, delete and change), also to listen user activity and react on it, so in other words to connect language with browser page.
-DOM - the mirror of HTML document, tree structure, in which every element - JS object with properties and methods, which is part of HTML document. Every element in document is the part of DOM document, so they can changed in JS code. 
+# DOM & BOM
 
-**BOM - browser interface (for example listen location and so on)
+- DOM - | Document Object Model | independent from the any language for work with HTML document, which possess a lot of methods, that help to make manipulations with any HTML elements (create, delete and change), also to listen user activity and react on it, so in other words to connect language with browser page.
+DOM - the mirror of HTML document, tree structure, in which every element - JS object with properties and methods, which is part of HTML document. Every element in document is the part of DOM document, so they can changed in JS code. 
+- BOM - browser interface (for example listen location and so on)
 
 ## DOM navigation (see image/dom-traversal.png)
 
