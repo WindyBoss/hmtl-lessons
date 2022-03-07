@@ -68,14 +68,14 @@ Instructions:
 ## Keyboard combinations>
 For service of combos, like Ctrl + s or any other, was created such methods as ctrlKey, altKey, shiftkey and metaKey, which save Boolean about the response on the questions: was pressed any buttom-modificator (CTRL, ALT...)
 
-{
-document.addEventListener("keydown", event => {
-  event.preventDefault();
-
-  if ((event.ctrlKey || event.metaKey) && event.code === "KeyS") {
-    console.log("«Ctrl + s» or «Command + s» combo");
-  }
-});
-}
+1. {
+2.  document.addEventListener("keydown", event => {
+3.   event.preventDefault();
+4.
+5.   if ((event.ctrlKey || event.metaKey) && event.code === "KeyS") {
+6.     console.log("«Ctrl + s» or «Command + s» combo");
+7.   }
+8.  });
+9. }
 
 Some combination can conflict with default brawser combos, like CTRL + d can open new indow in browser, so be careful during project of web-page. (preventDefault() - can save the situation)
