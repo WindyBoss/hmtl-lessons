@@ -1,10 +1,9 @@
 DOM - | Document Object Model | independent from the any language for work with HTML document, which possess a lot of methods, that help to make manipulations with any HTML elements (create, delete and change), also to listen user activity and react on it, so in other words to connect language with browser page.
 DOM - the mirror of HTML document, tree structure, in which every element - JS object with properties and methods, which is part of HTML document. Every element in document is the part of DOM document, so they can changed in JS code. 
 
-BOM - browser interface (for example listen location and so on)
+**BOM - browser interface (for example listen location and so on)
 
-
-<DOM navigation (see image/dom-traversal.png)
+## DOM navigation (see image/dom-traversal.png)
 
 Instructions: 
 1. { elem.parentNode } - parent elem.
@@ -20,13 +19,12 @@ Instructions:
 11. { elem.nextElementSibling } - right tag from elem (post-sibling).
 
 
-
-<element attributes
+## element attributes
 -> value - text content of element.
 -> checked - save info of checkbox or radio button.
 -> name - value, which was mentioned in attribute name.
 
-<Attributes commands
+## Attributes commands
 -> elem.hasAttribute(name) - check the obsence of attribute, returns true or false.
 -> elem.getAttribute(name) - show the value of attribute.
 -> elem.setAttribute(name, value) - set the attribute.
@@ -34,7 +32,7 @@ Instructions:
 -> elem.attributes - return the object of all attributes of the element.
 
 
-<Adding of element to HTML document in comparison with other elements.
+## Adding of element to HTML document in comparison with other elements.
 -> mainElement.append(el1, el2, ...) - add one or more elements after all children of mainElement.
 -> mainElement.prepend(el1, el2, ...) - add one or more elements before all children of mainElement.
 -> mainElement.after(el1, el2, ...) - add one or more elements after mainElement.
