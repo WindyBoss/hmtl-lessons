@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Callback-функции</title>
+        <link
+        href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap"
+        rel="stylesheet">
+        <style>
+            body {
+                font-family: sans-serif;
+            }
+
+            button {
+                font-family: inherit;
+                margin: 20px;
+                padding: 6px;
+                background-color: aqua;
+            }
+            li {
+                margin: 10px;
+                list-style: none;
+            }
+
+            .new-class-added {
+                border: 1px solid black;
+            }
+
+            .new-class-more {
+                transform: translate(30px, 20px);
+                transition: 250ms cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+            .site-nav-toggle {
+                background-color: yellow;
+            }
+            
+            .site-nav_item-replace {
+                color: red;
+            }
+
+            .site-nav_item {
+                color: green
+            }
+
+            .site-nav-remove {
+                font-size: 30px;
+            }
+
+            .site-nav_link--current {
+                color: purple;
+                font-size: 40px;
+            }
+
+        </style>
+    </head>
+        <body>
+            <button class='make-a-magic'>Make a Magic</button>
+            <ul class='site-nav site-nav-remove'>
+                <li class='site-nav_item for-replace'>
+                    <a class='site-nav_link' href="/about-us">About us</a></li>
+                <li class='site-nav_item for-replace'>
+                    <a class='site-nav_link' href="/portfolio">Portfolio</a></li>
+                <li class='site-nav_item for-replace'>
+                    <a class='site-nav_link' href="/contacts">Contacts</a></li>
+            </ul>
+            <script src='./js/classlist.js' type='module'></script>
+        </body>
+    </html>

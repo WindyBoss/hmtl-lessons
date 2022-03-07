@@ -1,0 +1,8 @@
+.transaction-table {
+    border: 1px solid black;
+}
+
+.table-element {
+    padding: 5px;
+    border: 1px solid black;
+}
