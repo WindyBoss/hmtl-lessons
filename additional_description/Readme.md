@@ -1,8 +1,8 @@
 # Terminal Instructions
 
 - Terminal
-  - [Notes](https://tproger.ru/translations/bash-cheatsheet/)
-  - [Notes](https://habr.com/ru/company/ruvds/blog/555270/)
+  - [Note 1](https://tproger.ru/translations/bash-cheatsheet/)
+  - [Note 2](https://habr.com/ru/company/ruvds/blog/555270/)
   - How to open
     - view > terminal
     - "Ctrl + `"
