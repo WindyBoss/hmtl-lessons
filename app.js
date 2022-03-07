@@ -44,3 +44,15 @@ app.get('/countries/:country', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Web Server is running on port ${PORT}`);
 });
+
+
+/*
+*JAMstack - [https://youtu.be/b1ZnAmIXXAQ]
+
+[https://waelyasmina.medium.com/a-guide-into-using-handlebars-with-your-express-js-application-22b944443b65]
+
+npm install nodemon -D --> npm package, which helps to reset server only by saving changes
+
+[heroku.com] -> free domain
+git push heroku main:master
+*/
