@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript-test",
+  "version": "1.0.0",
+  "description": "ecmascript dependencies exercise",
+  "source": "src/index.html",
+  "dependencies": {
+    "joi": "^17.4.2",
+    "shortid": "^2.2.16"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/windyboss"
+  },
+  "author": "Vitaliy Zhyryk",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
