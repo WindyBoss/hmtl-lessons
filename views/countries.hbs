@@ -1,0 +1,26 @@
+<h1>THis is a country list page</h1>
+
+{{#each countries}}
+<a href='/countries/{{id}}'>
+    <li class="gallery__item">
+        <div class="gallery__thumb">
+            <img src="{{flag}}" alt="flat" width="320">
+        </div>
+        <h2><b>{{name}}</b></h2>
+        <p><b>Capital:</b> {{capital}}</p>
+        <p><b>Currency:</b> {{currency}}</p>
+        <p><b>Language:</b> {{language}}</p>
+        <p><b>Population:</b> {{population}}</p>
+    
+        {{#if infected}}
+        <p style="color:red">Prohibit for travelling</p>
+        {{/if}}
+    
+    
+        {{#unless infected}}
+        <p style="color:green">Allow for travelling</p>
+        {{/unless}}
+    
+    </li>
+</a>
+{{/each}}

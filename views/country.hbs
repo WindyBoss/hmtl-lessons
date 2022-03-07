@@ -1,0 +1,14 @@
+<p><a href="/countries">List of countries</a></p>
+<h1>{{country.name}}</h1>
+<img src="{{country.flag}}" alt="flat" width="320">
+<p><b>Currency:</b> {{country.currency}}</p>
+<p><b>Language:</b> {{country.language}}</p>
+
+{{#if country.infected}}
+<p style="color:red">Prohibit for travelling</p>
+{{/if}}
+
+
+{{#unless country.infected}}
+<p style="color:green">Allow for travelling</p>
+{{/unless}}
