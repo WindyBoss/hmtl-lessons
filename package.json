@@ -1,0 +1,18 @@
+{
+  "name": "module-11-asyns-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "keywords": [],
+  "author": "Vitaliy Zhyryk <zhyryk1997@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap.native": "^4.0.7",
+    "parcel": "^2.0.1",
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  }
+}
