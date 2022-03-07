@@ -3,7 +3,7 @@
 - [The World Wide Web](https://www.youtube.com/watch?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&v=guvsH5OFizE&feature=youtu.be)
 - [How The Internet Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
 
-## [Part 2 (practice)]
+## Part 2 (practice)
 Backend List: 
 - [pixabay](https://pixabay.com/api/docs/) -> picture and video backend (needs a registration) 
 - weatherStack(https://weatherstack.com/) -> weather website
