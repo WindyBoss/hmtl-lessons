@@ -30,7 +30,7 @@ see all my way of studying Javascript, but if you are anyone else, you are also 
 ## Main Project:
 **Event Booster - Website, which helps user to find necessary information about the interested events and buy tickets.**
 **The Project was made in team of 5 people during the study in IT school GOIT.**
-1. [Code](https://github.com/WindyBoss/Project_JS)**
-2. [Page](https://windyboss.github.io/Project_JS/)**
+1. [Code](https://github.com/WindyBoss/Project_JS)
+2. [Page](https://windyboss.github.io/Project_JS/)
 
 More deep infomation you can find inside each of higher mentioned branches.
