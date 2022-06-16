@@ -1,7 +1,7 @@
 # Javascript course
 
 **Welcome to my github page Javascript course.** **Probably you are the HR worker, so here you can
-see all my way of studying Javascript, but if you are anyone else, you are also welcome to contact with me by email: **zhyryk1997@gmail.com.** 
+see all my way of studying Javascript, but if you are anyone else, you are also welcome to contact with me by email: zhyryk1997@gmail.com.** 
 **You can find the whole notes, which I made during the course - enjoy.**
 
 ## Agenda
@@ -28,9 +28,9 @@ see all my way of studying Javascript, but if you are anyone else, you are also 
 20. [Module 20 - Infinite Scroll](https://github.com/WindyBoss/js-lessons/tree/Module-20-Infinite-Scroll)
 
 ## Main Project:
-** Event Booster - Website, which helps user to find necessary information about the interested events and buy tickets
-** The Project was made in team of 5 people during the study in IT school GOIT
-** [Code](https://github.com/WindyBoss/Project_JS)
-** [Page](https://windyboss.github.io/Project_JS/)
+** Event Booster - Website, which helps user to find necessary information about the interested events and buy tickets. **
+** The Project was made in team of 5 people during the study in IT school GOIT. **
+** [Code](https://github.com/WindyBoss/Project_JS). **
+** [Page](https://windyboss.github.io/Project_JS/). **
 
 More deep infomation you can find inside each of higher mentioned branches.
