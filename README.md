@@ -41,4 +41,4 @@ More deep infomation you can find inside each of higher mentioned branches.
 3. [Page](https://windyboss.github.io/goit-js-hw-08/) | [Code](https://github.com/WindyBoss/goit-js-hw-08) - First use of templates "Handlebars"
 4. [Page](https://windyboss.github.io/goit-js-hw-09/) | [Code](https://github.com/WindyBoss/goit-js-hw-09) - First work with asynchronous Code
 5. [Page](https://windyboss.github.io/goit-js-hw-10/) | [Code](https://github.com/WindyBoss/goit-js-hw-10) - First Fetch API use
-6. [Page](https://windyboss.github.io/goit-js-hw-11/) | [Code](https://github.com/WindyBoss/goit-js-hw-11) - Image Gallery creating by Fetch API
+6. [Page](https://windyboss.github.io/goit-js-hw-11/) | [Code](https://github.com/WindyBoss/goit-js-hw-11) - Image Gallery creating by Fetch API (Load More Button & Infinite Scroll)
