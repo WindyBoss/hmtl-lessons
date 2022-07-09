@@ -36,9 +36,9 @@ see all my way of studying Javascript, but if you are anyone else, you are also 
 More deep infomation you can find inside each of higher mentioned branches.
 
 ## Additional Homeworks: 
-# 1 [Page](https://windyboss.github.io/goit-js-hw-06/) | [Code](https://github.com/WindyBoss/goit-js-hw-06)
-# 2.[Page](https://windyboss.github.io/goit-js-hw-07/) | [Code](https://github.com/WindyBoss/goit-js-hw-07)  
-# 3.[Page](https://windyboss.github.io/goit-js-hw-08/) | [Code](https://github.com/WindyBoss/goit-js-hw-08)  
-# 4.[Page](https://windyboss.github.io/goit-js-hw-09/) | [Code](https://github.com/WindyBoss/goit-js-hw-09)  
-# 5.[Page](https://windyboss.github.io/goit-js-hw-10/) | [Code](https://github.com/WindyBoss/goit-js-hw-10)  
-# 6.[Page](https://windyboss.github.io/goit-js-hw-11/) | [Code](https://github.com/WindyBoss/goit-js-hw-11)  
+1. [Page](https://windyboss.github.io/goit-js-hw-06/) | [Code](https://github.com/WindyBoss/goit-js-hw-06)
+2. [Page](https://windyboss.github.io/goit-js-hw-07/) | [Code](https://github.com/WindyBoss/goit-js-hw-07)  
+3. [Page](https://windyboss.github.io/goit-js-hw-08/) | [Code](https://github.com/WindyBoss/goit-js-hw-08)  
+4. [Page](https://windyboss.github.io/goit-js-hw-09/) | [Code](https://github.com/WindyBoss/goit-js-hw-09)  
+5. [Page](https://windyboss.github.io/goit-js-hw-10/) | [Code](https://github.com/WindyBoss/goit-js-hw-10)  
+6. [Page](https://windyboss.github.io/goit-js-hw-11/) | [Code](https://github.com/WindyBoss/goit-js-hw-11)  
