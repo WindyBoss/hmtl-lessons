@@ -5,7 +5,7 @@
 /* 
 * mouse move and throttle
 * throttle -> lodash library function, which cuts the number of records of chatty events
-* with the breaks of timer X milisecond  
+* with the breaks of timer X millisecond  
 */
 
 /*
@@ -31,7 +31,7 @@ function onMouseMove(e) {
 
 const input = document.querySelector('.js-input'); 
 const throttledCoordsOutputRef = document.createElement('p'); // -> creation of the element
-document.body.insertBefore(throttledCoordsOutputRef, input); // -> insertation of the element before chosen input
+document.body.insertBefore(throttledCoordsOutputRef, input); // -> insertion of the element before chosen input
 
 const throttledOnMouseMoveVariable = _.throttle(throttledOnMouseMove, 500); // -> throttled moused-moved function
 window.addEventListener('mousemove', throttledOnMouseMoveVariable); // -> add EventListener to window

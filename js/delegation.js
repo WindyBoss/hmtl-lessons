@@ -13,7 +13,7 @@ function onClick(e) {
     // console.log(e.target);
     // console.log(e.target.textContent);
 
-    /* The next IF checks if the click is made on neccessary HTML element, in other words the click filter */
+    /* The next IF checks if the click is made on necessary HTML element, in other words the click filter */
     if (e.target.nodeName !== 'BUTTON') {
         return;
     }

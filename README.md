@@ -1,3 +1,11 @@
+# Module 8 - Event Delegation
+
+- event bubbling
+- chatty events (throttle, debounce)
+- mouse events
+- delegation
+- lazyloading
+- lazysizes
 
 # Javascript course
 
