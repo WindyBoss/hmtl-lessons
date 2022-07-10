@@ -3,6 +3,7 @@
 - meeting with npm 
 - installing parcel package
 - installing express package
+- work in terminal
 
 # Javascript course
 
