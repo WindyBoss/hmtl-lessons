@@ -48,7 +48,7 @@ see all my way of studying Javascript, but if you are anyone else, you are also 
 1. [Code](https://github.com/WindyBoss/Project_JS)
 2. [Page](https://windyboss.github.io/Project_JS/)
 
-More deep infomation you can find inside each of higher mentioned branches.
+More deep information you can find inside each of higher mentioned branches.
 
 ## Additional Homeworks: 
 1. [Page](https://windyboss.github.io/goit-js-hw-06/) | [Code](https://github.com/WindyBoss/goit-js-hw-06) - First work with DOM 
