@@ -29,7 +29,7 @@ promise.then(
 */
 
 // promise.then(onFulfilled, onRejected);
-console.log(data); // -> external variables connat be changed in promises
+console.log(data); // -> external variables can not be changed in promises
 
 
 function onFulfilled(result) {

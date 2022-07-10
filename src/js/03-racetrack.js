@@ -69,15 +69,6 @@ function updateResultTable({ horse, time, raceCounter }) {
     refs.tableBody.insertAdjacentHTML('beforeend', tr);
 }
 
-
-
-
-
-
-
-
-
-
 run('Mango').then(x => console.log(x));
 
 /*
