@@ -1,3 +1,10 @@
+# Module 2 - Array & Function
+
+- for & if
+- methods (includes, slice, join, push, Array.from, destructuring, )
+- work with strings (toLowerCase, split, toUpperCase, dynamic strings with variables)
+- "? :" operator
+- functions & return
 
 # Javascript course
 
