@@ -34,7 +34,7 @@ see all my way of studying Javascript, but if you are anyone else, you are also 
 11. [Module 11 - Webpack](https://github.com/WindyBoss/js-lessons/tree/Module-11-Webpack)
 12. [Module 12 - LocalStorage](https://github.com/WindyBoss/js-lessons/tree/Module-12-LocalStorage)
 13. [Module 13 - Web Application](https://github.com/WindyBoss/js-lessons/tree/Module-13-Web-Application)
-14. [Module 14 - Asynchrone Code](https://github.com/WindyBoss/js-lessons/tree/Module-14-Asynchrone-Code)
+14. [Module 14 - Asynchronous Code](https://github.com/WindyBoss/js-lessons/tree/Module-14-Asynchrone-Code)
 15. [Module 15 - Promise](https://github.com/WindyBoss/js-lessons/tree/Module-15-Promise)
 16. [Module 16 - AJAX](https://github.com/WindyBoss/js-lessons/tree/Module-16-AJAX)
 17. [Module 17 - Pagination](https://github.com/WindyBoss/js-lessons/tree/Module-17-Pagination)
