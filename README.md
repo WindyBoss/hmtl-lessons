@@ -1,3 +1,8 @@
+# Module 5 - Prototype & Class
+
+- class (constructor, class methods, props, class expend, static methods, this)
+- prototype methods (getPrototypeOf)
+- small plugins
 
 # Javascript course
 

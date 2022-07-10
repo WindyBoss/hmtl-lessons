@@ -32,7 +32,6 @@ const MarketAnalytics = function ({
                 return locations.find((location) => Object.values(location) === geography);
         }
     
-        const 
     // this.marketingBudget =
     // this.profitabilityTiming =     
 } 

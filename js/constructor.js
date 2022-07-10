@@ -123,7 +123,7 @@ console.log(objA.__proto__ === Object.prototype); // it will return true
 
 // 1. All objects possess __proto__ 
 // 2. In __proto__ is a link on its prototype - other object with properties (function and so on)
-// 3. Durion Object.creates in __proto__ is written a link on this object or function
+// 3. During Object.creates in __proto__ is written a link on this object or function
 // 4. function - constructor is just a function
 // 5. The main magician is operator (method) 'New'
 // 6. New - creates a new object

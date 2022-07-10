@@ -1,4 +1,4 @@
-// class -->  the same as constructor, but with different syntax, and simplier.
+// class -->  the same as constructor, but with different syntax, and simpler.
 
 // Example of the constructor function
 
@@ -39,7 +39,7 @@ class Car1 {
     }
     #owner = 'Vitaliy';  // Private property because of #. It cannot be used in the constructor.
     // Classes and # are new instruments in JS code, and they are not accepted in standard JS code.
-    // You will need JS complator for remaking your JS into the older versions of JavaScript.
+    // You will need JS complicator for remaking your JS into the older versions of JavaScript.
 
 
     myPublicProperty = 'Year of production - 2021'; // declaration of public property, that CANNOT be saved in prototype
