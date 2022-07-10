@@ -1,3 +1,8 @@
+# Module 10 - NPM
+
+- meeting with npm 
+- installing parcel package
+- installing express package
 
 # Javascript course
 

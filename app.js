@@ -47,7 +47,7 @@ passwordSchema -> function
 - string() -> validate code (only strings)
 - min(x) -> min x number of symbols in input
 - max(x) -> max x number of symbols in input
-- alphanum() -> only latin alphanum
+- alphanum() -> only latin alphabet
 */
 
 // shortid
