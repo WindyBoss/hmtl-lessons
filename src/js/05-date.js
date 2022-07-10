@@ -4,7 +4,7 @@ import '../css/common.css';
 const date = new Date(); // --> date is an Object
 console.dir(date);
 console.log(date.getDay()); // -> day of week start from 0 - Sunday
-console.log(date.getTime()); // -> miliseconds from 1970.01.01
+console.log(date.getTime()); // -> milliseconds from 1970.01.01
 */
 
 const date1 = Date.now();
