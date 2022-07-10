@@ -1,3 +1,7 @@
+# Module 1 - Meeting with JS Syntax and data types
+- Variable types
+- Data types (boolean, number, string)
+- methods (typeof, Number, console.log, parseIn, toFixed, Math) 
 
 # Javascript course
 
