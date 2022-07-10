@@ -21,9 +21,6 @@ function onBtnClick(event) {
 };
 
 
-
-
-
 function pokemonCardmark(pokemon) {
   const markup = pokemonCardTpl(pokemon);
   refs.container.innerHTML = markup;
