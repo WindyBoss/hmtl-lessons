@@ -120,7 +120,7 @@ function getProductPrice(productName) {
 
 
 
-// // example of destructurization of object in function for minimizing unclear parameters, which function must consider
+// // example of destruction of object in function for minimizing unclear parameters, which function must consider
 // // fist version
 // function doStuffWithBook(book) {
 //     const { title, numberOfPages, downloads, rating, public } = book;
@@ -136,7 +136,7 @@ function getProductPrice(productName) {
 
 
 
-// this code helps to generate new Object by ading variable completed or other variables 
+// this code helps to generate new Object by adding variable completed or other variables 
 // in condition on their absence in an old object
   function makeTask(data) {
     const completed = false;

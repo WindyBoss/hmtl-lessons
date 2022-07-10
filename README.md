@@ -1,3 +1,12 @@
+# Module 3 - Objects
+
+- Object properties
+- methods (hasOwnProperty, Object.keys, Object.values, )
+- link & direct comparisons
+- other operators
+- creation of methods inside objects
+- function - object
+- this
 
 # Javascript course
 

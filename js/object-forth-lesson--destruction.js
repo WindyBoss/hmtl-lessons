@@ -29,7 +29,7 @@ const playlist = {
         console.log('An old function gets names');
     },
     // The new one
-    getNames(name) {
+    getNames() {
         console.log('The new syntax of function gets names');
     }, 
 
@@ -79,7 +79,7 @@ const {
 } = playlist;
 
 
-// If you use the code like that, it is not so readable, it looks like spagetti
+// If you use the code like that, it is not so readable, it looks like spaghetti
 console.log(
     playlist.name,
     playlist.songsNumber,
@@ -198,20 +198,20 @@ for (const entry of entries) {
 };
 
 
-// The next 'for * of' - presents a strings of properties and thier values
+// The next 'for * of' - presents a strings of properties and their values
 for (const entry of entries) {
     const name = entry [0];
     const numberOfBooks = entry [1];
     console.log(name, numberOfBooks);
 };
 
-// It can be simplier
+// It can be simpler
 for (const entry of entries) {
     const [name, numberOfBooks] = entry;
     console.log(name, numberOfBooks);
 }
 
-// Even more simplier
+// Even more simpler
 for (const [name, numberOfBooks] of entries) {
     console.log(name, numberOfBooks);
 }

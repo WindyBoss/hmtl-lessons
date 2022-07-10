@@ -114,7 +114,7 @@ const getAllNames = function (allFriends) {
         names.push(friend.name);
     }
     console.log(names);
-    return names; // - makes the same as console log, but stop the function and cut last 'underfine'
+    return names; // - makes the same as console log, but stop the function and cut last 'undefined'
 }
 
 console.log(getAllNames(friends));
@@ -181,7 +181,7 @@ const getFriendsByOnlineStatus = function (allFriends) {
 
     // cycle, which helps to check all friends 
     for (const friend of allFriends) {
-        // condiions which must be done
+        // conditions which must be done
         if (friend.online) {
             friendsByStatus.online.push(friend);
         } else {
