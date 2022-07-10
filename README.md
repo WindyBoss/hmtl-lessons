@@ -1,3 +1,17 @@
+# Module 6 - Array Methods
+
+- chaining
+- every
+- some
+- filter
+- find
+- findIndex
+- flat
+- forEach
+- map
+- reduce
+- sort
+- meeting with lodash library
 
 # Javascript course
 

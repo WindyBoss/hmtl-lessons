@@ -32,7 +32,7 @@ const tagsLong = tweets.map(tweet => tweet.tags) /* --> return array of arrays*/
     .flat(); /* --> return array of tags */
 console.log(tagsLong);
 
-//insted of two separate operation the next method can do both at one time
+//instead of two separate operation the next method can do both at one time
 const tags = tweets.flatMap(tweet => tweet.tags);
 console.log(tags);
 

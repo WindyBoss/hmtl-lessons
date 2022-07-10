@@ -3,7 +3,7 @@ Array.prototype.sort(callback(currentElement, nextElement),{})
 - sort and change the original Array
 - default using:
     + sort increment
-    + complilate all elements by [unicode] and sort
+    + check all elements by [unicode] and sort
     https:unicode-table.com/en/)
 */
 

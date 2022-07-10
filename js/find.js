@@ -50,7 +50,7 @@ console.log(playerById);
 console.log('<---------------------->');
 
 // function to find the player by name
-const findPlayerByName = (allPlayers, playerName) => allPlayers.find(({ name }) => name === playerName); // with destructurization
+const findPlayerByName = (allPlayers, playerName) => allPlayers.find(({ name }) => name === playerName); // with destructing
 console.log(findPlayerByName(players, 'Alex'));
 console.log(findPlayerByName(players, 'Vitek'));
 

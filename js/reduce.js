@@ -95,10 +95,10 @@ const tweets = [
     { id: '005', likes: 4, tags: ['nodejs', 'js'] },
 ];
 
-// Code optimalization
+// Code optimization
 //Step 1: create a code
 const allTags1 = tweets.reduce((tags /* the array of arrays */, tweet) => {
-    tags.push(tweet.tags);/* --> this code changes the array by the link, which is not good for repetable using
+    tags.push(tweet.tags);/* --> this code changes the array by the link, which is not good for repeatable using
     It is better to make a copy and after that to use 'push' like in step 3*/
     return tags;
 }, [] /* --> it is better to add beginning accumulator */ );
@@ -106,7 +106,7 @@ console.log(allTags1); /* - returns array of arrays */
 
 //Step 2: make a spread
 const allTags2 = tweets.reduce((tags, tweet) => {
-    tags.push(...tweet.tags); /* --> this code changes the array by the link, which is not good for repetable using
+    tags.push(...tweet.tags); /* --> this code changes the array by the link, which is not good for repeatable using
     It is better to make a copy and after that to use 'push' like in step 3*/
     return tags;
 }, []);
@@ -125,7 +125,7 @@ console.log(allTags4); /* return array of all tags */
 
 
 // The next code calculate: how many times was used any of the separate tags
-//Code optimalization
+//Code optimization
 // Step 1: make a working code
 const tagsStats = allTags4.reduce((acc, tag) => {
     // console.log(acc);
