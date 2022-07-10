@@ -1,4 +1,4 @@
-//! Async - await - the type of function which stop the interpretator inside the function and wait until the result will be reached and write the helps to save the results
+//! Async - await - the type of function which stop the interpretation inside the function and wait until the result will be reached and write the helps to save the results
 
 /*
 type of syntax of async functions:
@@ -27,7 +27,7 @@ async function makeSmoothie() {
     const apple = getFruit('apple');
     const berry = getFruit('strawberry');
     const kiwi = getFruit('kiwi');
-    const fruits = await Promise.all([kiwi, apple, berry]); // -> await gives a posibility to receive a result from async function
+    const fruits = await Promise.all([kiwi, apple, berry]); // -> await gives a possibility to receive a result from async function
     console.log(fruits);
 
     console.timeEnd('makeSmoothieByAwaitSeparate');
