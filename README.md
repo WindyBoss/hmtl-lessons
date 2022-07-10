@@ -1,3 +1,6 @@
+# Module 9 - Ecmascript
+
+- libraries shortid & joi
 
 # Javascript course
 
