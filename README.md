@@ -1,3 +1,7 @@
+# Module 11 - Webpack
+
+- configuration of Webpack
+- configuration of babel
 
 # Javascript course
 
