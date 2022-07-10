@@ -1,3 +1,14 @@
+# Module 7 - DOM & Events
+
+- event listeners (event)
+- element creation 
+- classlist manipulation
+- DOM collection
+- querySelector
+- element insert
+- forms
+- input events
+- keyboard events
 
 # Javascript course
 
