@@ -15,7 +15,7 @@ console.log(add(5, 7, 2));
 console.log(add2(5, 7, 2));
 
 // Rules:
-// 1. You can miss the parameter brackets, but if the paratemers are more than 2 it is better to use the brackets
+// 1. You can miss the parameter brackets, but if the parameters are more than 2 it is better to use the brackets
 
 const add3 = a => {
     console.log(a);

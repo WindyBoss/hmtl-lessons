@@ -1,4 +1,4 @@
-// Multitasked function-filter-cycle in arrow function
+// Multitasks function-filter-cycle in arrow function
 const filter = function (array, test, limit) {
     const filteredArray = [];
     
@@ -30,7 +30,7 @@ const fruits = [
     { name: 'strawberries', quantity: 300, isFresh: false },
     { name: 'plums', quantity: 50, isFresh: false },
     { name: 'pineapples', quantity: 190, isFresh: true },
-    { name: 'pemigranate', quantity: 150, isFresh: true },
+    { name: 'pomegranate', quantity: 150, isFresh: true },
 ];
 
 

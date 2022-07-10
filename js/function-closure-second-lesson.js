@@ -24,8 +24,8 @@ console.log(fnB);
 // Other function of closure is a making code of function call easier and shorter
 
 // Old version
-const makeDishComplicated = function (sheffName, dish) {
-    console.log(`${sheffName} is cooking ${dish}`);
+const makeDishComplicated = function (ChiefName, dish) {
+    console.log(`${ChiefName} is cooking ${dish}`);
 }
 
 makeDishComplicated('John', 'burger');
@@ -34,7 +34,7 @@ makeDishComplicated('Susan', 'tea');
 
 
 // The new version
-const makeSheff = function (name) {
+const makeChief = function (name) {
     const checkTheVariable = 123;
     const message = 'Never give up'
 
@@ -47,21 +47,21 @@ const makeSheff = function (name) {
     return makeDish;
 }
 
-// to make an closure is necessary to create a variable (the name of sheff) 
-const john = makeSheff('John');
+// to make an closure is necessary to create a variable (the name of Chief) 
+const john = makeChief('John');
 
 john('burger');
 john('Steak');
 console.dir(john);
 // console.dir - helps to see the source of data in the main function (all variables), in condition of their using in function
 
-const sam = makeSheff('Sam');
+const sam = makeChief('Sam');
 
 sam('sushi');
 sam('pasta');
 console.dir(sam);
 
-const susan = makeSheff('Susan');
+const susan = makeChief('Susan');
 
 susan('tea');
 susan('coffee');
@@ -147,7 +147,7 @@ console.log(myLib);
 
 myLib.value = 555;
 console.log(myLib.getValue());
-// After the code above property value will be changed, and if you do not want to give the posibility to change the code,
+// After the code above property value will be changed, and if you do not want to give the possibility to change the code,
 // it is better to use the next code and put the property inside the variable.
 
 const myLibFactory = function () {

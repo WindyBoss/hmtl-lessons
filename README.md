@@ -1,3 +1,14 @@
+# Module 4 - Functions & Callbacks
+
+- arrow functions with conditions
+- work i=with objects
+- callback function
+- fetch 
+- Date & time methods (Date.now, setTimeout, etc)
+- function closure
+- array methods (forEach, filter, find, flatMap, every, some, reduce, sort, indexOf, map)
+- LexicalEnvironment (this, bind, objects methods)
+- First work with DOM (querySelector)
 
 # Javascript course
 

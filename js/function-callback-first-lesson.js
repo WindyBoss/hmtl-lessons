@@ -37,7 +37,7 @@ doMath(5, 3, sub);
 
 // function doMath can be used with different functions
 
-// <-----------------------But it can be simplier------------------------------->
+// <-----------------------But it can be simpler------------------------------->
 
 doMath(5, 3, function(x, y) {
     return x + y;
@@ -51,14 +51,14 @@ doMath(5, 3, function(x, y) {
 
 
 // the next code connect the function to the button. When user clicks on button, function console 'button clicked'
-// and adds the Date and time to miliseconds
+// and adds the Date and time to milliseconds
 
 const buttonRef = document.querySelector('button');
 const handleBtnClick = function() {
     console.log('button clicked at ' + Date.now());
 }
 
-// Date.now - shows the present time to miliseconds
+// Date.now - shows the present time to milliseconds
 // addEventListener - function, which observes the event and do (function, which is connected) when this 'Event' happened  
 // The code of addEventListener:
 
@@ -70,7 +70,7 @@ const handleBtnClick = function() {
 
 buttonRef.addEventListener('click', handleBtnClick);
 
-// The code can be simplier
+// The code can be simpler
 
 buttonRef.addEventListener('click', function() {
     console.log('button clicked at ' + Date.now());
@@ -100,11 +100,11 @@ window.navigator.geolocation.getCurrentPosition(
     onGetPositionError,
 );
 
-// The instrucion how the change the local port
+// The instruction how the change the local port
 // Settings (CTRL + ,) --> find {live server port} --> settings.json --> change the "liveServer.settings.port"
 
 
-// Asynchron code callback function
+// Asynchronous code callback function
 
 const callback = function (){
     console.log('Show this line after 2 seconds')
@@ -112,7 +112,7 @@ const callback = function (){
 
 console.log('The code before setTimeout');
 
-//Function setTimeout - it JS integrated function, which helps to use function after some break (2000 miliseconds in exmple)
+//Function setTimeout - it JS integrated function, which helps to use function after some break (2000 milliseconds in example)
 setTimeout(callback, 2000);
 
 console.log('The code after setTimeout');
@@ -136,7 +136,7 @@ fetch('https://pokeapi.co/api/v2/pokemon')
 
 
 
-// Multitasked function-filter-cycle
+// Multitasks function-filter-cycle
 const filter = function (array, test, limit) {
     const filteredArray = [];
     
@@ -180,14 +180,14 @@ console.log(filter([1, 2, 3, 4, 5, 6, 7, 8, 9], function(value, limit) {
 }, 5)); 
 
 
-// Multitasked function with Object in array
+// Multitasks function with Object in array
 
 const fruits = [
     { name: 'apples', quantity: 200, isFresh: true },
     { name: 'strawberries', quantity: 300, isFresh: false },
     { name: 'plums', quantity: 50, isFresh: false },
     { name: 'pineapples', quantity: 190, isFresh: true },
-    { name: 'pemigranate', quantity: 150, isFresh: true },
+    { name: 'pomegranate', quantity: 150, isFresh: true },
 ];
 
 
