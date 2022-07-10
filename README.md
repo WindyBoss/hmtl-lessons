@@ -1,3 +1,11 @@
+# Module 12 - LocalStorage
+
+- JSON format
+- LocalStorage
+- Template (handlebars)
+- try catch
+- error explanation
+- Constant Parcel using
 
 # Javascript course
 

@@ -17,7 +17,7 @@ JSON - database code, which always saves data a string. By data it means: boolea
 ## (Try Catch) 
 Method, which helps to catch errors after parsing the JSON from for ex. backend or localStorage
 
-- try -> responsible for handling the average code, which must be done by interpretator 
+- try -> responsible for handling the average code, which must be done by interpretation
 - catch -> responsible for handling code, if the errors occur after doing [try] part.
 
 try {
